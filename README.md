@@ -1,0 +1,2 @@
+# WebhookSpammer
+Discord Webhook spammer!
